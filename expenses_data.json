@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "amount": 500.0,
+      "category": "Food",
+      "date": "2025-08-16",
+      "note": ""
+    },
+    {
+      "amount": 400.0,
+      "category": "Transport",
+      "date": "2025-08-15",
+      "note": ""
+    },
+    {
+      "amount": 100.0,
+      "category": "Food",
+      "date": "2025-08-16",
+      "note": ""
+    }
+  ],
+  "budgets": {
+    "Food": 500.0,
+    "Transport": 500.0,
+    "Shopping": 500.0,
+    "Other": 200.0
+  }
+}
